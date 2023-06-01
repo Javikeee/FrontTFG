@@ -1,0 +1,24 @@
+.toolbar_contents > * {
+  display: inline-flex;
+  vertical-align: middle;
+  margin: 10px;
+  font-size: 1.8em;
+  text-decoration: none;
+  color: #F4EEE0;
+}
+
+.toolbar_contents{
+  margin-bottom: 1em;
+  background: #393646;
+  min-height: 4em;
+  border-radius: 0.3em;
+  padding-top: 0.5em;
+}
+
+.toolbar_contents > a {
+  font-size: 1.4em;
+}
+
+.toolbar_contents > a:hover {
+  color: #48D5CD;
+}
